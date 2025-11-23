@@ -1,0 +1,60 @@
+
+# YOUTUBE DATA ANALYSIS AND CONTENT STRATEGY SUMMARY
+# Analysis Date: 2025-11-23 00:12:06
+# Dataset: youtubedata.csv
+# ------------------------------------------------------------------
+
+## 1. KEY FINDINGS AND METRICS
+- **Short Video Engagement:** 120 saniyeden kısa videoların ortalama etkileşim oranı: 3.12%
+- **Long Video Engagement:** 120 saniyeden uzun videoların ortalama etkileşim oranı: 2.51%
+- **Most Liked Topic:** "Sigma #bek_zufarr #workout #motivation #sigma #workoutmotiva..."
+- **Most Viewed Channel:** "Priyal Kukreja"
+- **Highest Ratio Category:** 10.0
+
+## 2. VISUAL ANALYSIS FINDINGS
+- **Critical Insight:** The engagement ratio chart indicates that the highest engagement comes from content **under 2 minutes**.
+- **Action:** Investing in short-form content (Shorts) rapidly increases viewer satisfaction (Like Ratio).
+- **Topic Popularity:** Most liked videos typically involve rapidly consumable, niche topics like **Fitness/Motivation, Quick Recipes, or Tech Tips**.
+
+## 3. RECOMMENDED CONTENT STRATEGY AND CALENDAR
+### SHORT BOMBING (Short Content Attack)
+To boost your engagement ratio, upload a minimum of 3 Shorts/1-minute videos per week. Topics: Fitness Hacks, Quick Recipes, Niche Tech Tips.
+
+### LONG-FORM CONTENT
+Upload 1 long-form video (4-8 minutes) per week. This should be the main, in-depth content covering topics successful in your Shorts.
+
+#### SAMPLE WEEKLY CALENDAR
+
+| Day | Focus | Aim |
+| :--- | :--- | :--- |
+| Monday | Shorts (Motivation) | Start the week with high energy and engagement. |
+| Wednesday | LONG-FORM VIDEO | Increase search traffic and authority. |
+| Friday | Shorts (Quick Tip) | Enter the weekend with viral potential. |
+| Sunday | Shorts (Community) | Capture weekend viewers and encourage comments. |
+
+
+
+
+## VISUAL ANALYSIS OUTPUTS (PNG)
+
+### 1_top_10_views Chart
+![1_top_10_views Chart](youtube_analiz_ciktilari/1_top_10_views.png)
+
+### 2_top_10_likes Chart
+![2_top_10_likes Chart](youtube_analiz_ciktilari/2_top_10_likes.png)
+
+### 3_top_10_ratio Chart
+![3_top_10_ratio Chart](youtube_analiz_ciktilari/3_top_10_ratio.png)
+
+### 4_top_10_channels Chart
+![4_top_10_channels Chart](youtube_analiz_ciktilari/4_top_10_channels.png)
+
+### 5_duration_vs_ratio_scatter Chart
+![5_duration_vs_ratio_scatter Chart](youtube_analiz_ciktilari/5_duration_vs_ratio_scatter.png)
+
+### 6_duration_histogram Chart
+![6_duration_histogram Chart](youtube_analiz_ciktilari/6_duration_histogram.png)
+
+### 7_category_engagement Chart
+![7_category_engagement Chart](youtube_analiz_ciktilari/7_category_engagement.png)
+

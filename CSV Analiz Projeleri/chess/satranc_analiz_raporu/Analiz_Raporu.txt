@@ -1,0 +1,110 @@
+# SATRANÇ VERİ SETİ DETAYLI ANALİZ RAPORU
+# Analiz Tarihi: 2025-11-23 00:58:51
+
+--------------------------------------------------
+
+## 1. En Çok Oynanan Açılışlar
+| Açılış Adı                                    |   Oyun Sayısı |
+|:----------------------------------------------|--------------:|
+| Van't Kruijs Opening                          |           368 |
+| Sicilian Defense                              |           358 |
+| Sicilian Defense: Bowdler Attack              |           296 |
+| French Defense: Knight Variation              |           271 |
+| Scotch Game                                   |           271 |
+| Scandinavian Defense: Mieses-Kotroc Variation |           259 |
+| Queen's Pawn Game: Mason Attack               |           232 |
+| Queen's Pawn Game: Chigorin Variation         |           229 |
+| Scandinavian Defense                          |           223 |
+| Horwitz Defense                               |           209 |
+| Caro-Kann Defense                             |           199 |
+| Philidor Defense #3                           |           198 |
+| Philidor Defense #2                           |           193 |
+| Indian Game                                   |           181 |
+| Italian Game: Anti-Fried Liver Defense        |           180 |
+
+--------------------------------------------------
+
+## 2. Beyaz Kazanma Oranları
+| Açılış Adı                                                  |   Kazanma Oranı (%) |
+|:------------------------------------------------------------|--------------------:|
+| Zukertort Opening: The Walrus                               |                 100 |
+| Vienna Game: Omaha Gambit                                   |                 100 |
+| Australian Defense                                          |                 100 |
+| Amazon Attack: Siberian Attack                              |                 100 |
+| Alekhine Defense: Scandinavian Variation |  Geschev Gambit  |                 100 |
+| Alekhine Defense: Mokele Mbembe |  Vavra Defense            |                 100 |
+| Tarrasch Defense: Schara Gambit                             |                 100 |
+| Tarrasch Defense: Classical Variation |  Carlsbad Variation |                 100 |
+| St. George Defense: Woodchuck Variation                     |                 100 |
+| Slav Defense: Two Knights Attack                            |                 100 |
+| Slav Defense: Soultanbeieff Variation                       |                 100 |
+| Slav Defense: Slav Gambit |  Alekhine Attack                |                 100 |
+| Slav Defense: Diemer Gambit                                 |                 100 |
+| Sicilian Defense: Sozin |  not Scheveningen                 |                 100 |
+| Sicilian Defense: Sozin Attack |  Flank Variation           |                 100 |
+
+--------------------------------------------------
+
+## 3. Siyah Kazanma Oranları
+| Açılış Adı                                                      |   Kazanma Oranı (%) |
+|:----------------------------------------------------------------|--------------------:|
+| Pirc Defense: Austrian Attack |  Kurajica Variation             |                 100 |
+| Pirc Defense: Austrian Attack |  Ljubojevic Variation           |                 100 |
+| Pirc Defense: Kholmov System                                    |                 100 |
+| Polish Opening: Birmingham Gambit                               |                 100 |
+| Polish Opening: King's Indian Variation                         |                 100 |
+| Polish Opening: King's Indian Variation |  Schiffler Attack     |                 100 |
+| Philidor Defense: Bird Gambit                                   |                 100 |
+| Philidor Defense: Morphy Gambit                                 |                 100 |
+| Van Geet Opening: Berlin Gambit                                 |                 100 |
+| Van Geet Opening: Sicilian Two Knights                          |                 100 |
+| Benko Gambit Accepted |  Yugoslav |  without 7...Bxf1           |                 100 |
+| Vienna Game: Mieses Variation                                   |                 100 |
+| Philidor Defense: Paulsen Attack                                |                 100 |
+| Philidor Defense: Philidor Countergambit |  Zukertort Variation |                 100 |
+| Old Indian: Czech Variation                                     |                 100 |
+
+--------------------------------------------------
+
+## 4. En Uzun Oyunlar
+| Açılış Adı                                          |   Hamle Sayısı |
+|:----------------------------------------------------|---------------:|
+| Queen's Gambit Declined: Hastings Variation         |            349 |
+| Queen's Gambit Declined: Hastings Variation         |            349 |
+| Slav Defense #2                                     |            259 |
+| French Defense: Queen's Knight                      |            255 |
+| French Defense: Knight Variation                    |            226 |
+| King's Pawn Game: Maroczy Defense                   |            222 |
+| Pirc Defense #4                                     |            222 |
+| Giuoco Piano                                        |            221 |
+| French Defense: Advance Variation |  Paulsen Attack |            218 |
+| Queen's Gambit Declined: Normal Defense             |            216 |
+| Sicilian Defense: Old Sicilian                      |            212 |
+| Philidor Defense #2                                 |            210 |
+| Philidor Defense #2                                 |            210 |
+| Mieses Opening                                      |            209 |
+| Philidor Defense #3                                 |            209 |
+
+--------------------------------------------------
+
+## 5. En Kısa Oyunlar
+| Açılış Adı        |   Hamle Sayısı |
+|:------------------|---------------:|
+| King's Pawn       |              1 |
+| Hungarian Opening |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+| Queen's Pawn      |              1 |
+| Queen's Pawn      |              1 |
+| Queen's Pawn      |              1 |
+| Reti Opening      |              1 |
+| Mieses Opening    |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+| King's Pawn       |              1 |
+
+--------------------------------------------------
+

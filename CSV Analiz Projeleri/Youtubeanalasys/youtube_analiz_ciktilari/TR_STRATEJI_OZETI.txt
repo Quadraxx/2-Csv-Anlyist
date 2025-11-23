@@ -1,0 +1,60 @@
+
+# YOUTUBE VERİ ANALİZİ VE İÇERİK STRATEJİSİ ÖZETİ
+# Analysis Date: 2025-11-23 00:12:06
+# Dataset: youtubedata.csv
+# ------------------------------------------------------------------
+
+## 1. TEMEL ÇIKARIMLAR VE METRİKLER
+- **Kısa Video Etkileşimi:** 120 saniyeden kısa videoların ortalama etkileşim oranı: 3.12%
+- **Uzun Video Etkileşimi:** 120 saniyeden uzun videoların ortalama etkileşim oranı: 2.51%
+- **En Beğenilen Konu:** "Sigma #bek_zufarr #workout #motivation #sigma #workoutmotiva..."
+- **En Çok İzlenen Kanal:** "Priyal Kukreja"
+- **En Yüksek Oranlı Kategori:** 10.0
+
+## 2. GÖRSEL ANALİZ BULGULARI
+- **Kritik Nokta:** Etkileşim oranları grafiği, en yüksek etkileşimin **2 dakikanın altındaki** içeriklerden geldiğini gösteriyor.
+- **Eylem:** Kısa formata (Shorts) yapılan yatırım, izleyici memnuniyetini (Beğeni oranı) hızla artırır.
+- **Konu Popülaritesi:** En çok beğeni alan videolar genellikle **Fitness/Motivasyon, Pratik Yemek/Tarifler** gibi hızlı tüketilebilen niş konuları içeriyor.
+
+## 3. ÖNERİLEN İÇERİK STRATEJİSİ VE TAKVİM
+### SHORT BOMBING (Kısa İçerik Saldırısı)
+Etkileşim oranınızı yükseltmek için, haftada minimum 3 adet Shorts/1 dakikalık video yükleyin. Konular: Fitness Hileleri, Hızlı Tarifler, Niş Teknoloji İpuçları.
+
+### UZUN İÇERİK
+Haftada 1 adet uzun video (4-8 dakika). Bu video, Shorts'ta başarılı olan konunun daha derinlemesine ele alındığı ana içerik olmalıdır.
+
+#### ÖRNEK HAFTALIK TAKVİM
+
+| Gün | Odak | Amaç |
+| :--- | :--- | :--- |
+| Pazartesi | Shorts (Motivation) | Haftaya yüksek enerjiyle başla. |
+| Çarşamba | LONG-FORM VIDEO | Arama motoru trafiğini ve otoriteyi artır. |
+| Cuma | Shorts (Quick Tip) | Hafta sonuna viral potansiyelle gir. |
+| Pazar | Shorts (Community) | Hafta sonu izleyicisini yakala ve yorumları teşvik et. |
+
+
+
+
+## GÖRSEL ANALİZ ÇIKTILARI (PNG)
+
+### 1_top_10_views Grafiği
+![1_top_10_views Grafiği](youtube_analiz_ciktilari/1_top_10_views.png)
+
+### 2_top_10_likes Grafiği
+![2_top_10_likes Grafiği](youtube_analiz_ciktilari/2_top_10_likes.png)
+
+### 3_top_10_ratio Grafiği
+![3_top_10_ratio Grafiği](youtube_analiz_ciktilari/3_top_10_ratio.png)
+
+### 4_top_10_channels Grafiği
+![4_top_10_channels Grafiği](youtube_analiz_ciktilari/4_top_10_channels.png)
+
+### 5_duration_vs_ratio_scatter Grafiği
+![5_duration_vs_ratio_scatter Grafiği](youtube_analiz_ciktilari/5_duration_vs_ratio_scatter.png)
+
+### 6_duration_histogram Grafiği
+![6_duration_histogram Grafiği](youtube_analiz_ciktilari/6_duration_histogram.png)
+
+### 7_category_engagement Grafiği
+![7_category_engagement Grafiği](youtube_analiz_ciktilari/7_category_engagement.png)
+
