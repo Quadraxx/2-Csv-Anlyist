@@ -46,7 +46,7 @@ Bu proje, bir veya birden fazla YouTube kanalına ait veri setini (`youtubedata.
 ## 👨‍💻 Geliştirici Bilgileri
 
 * **Adım:** Hüseyin Akın
-* **Konum:** Denizli, Türkiye
-* **GitHub:** [Quadraxx Profil Bağlantısı] *(Buraya kendi GitHub profil linkinizi ekleyebilirsiniz)*
+* **Konum:** Torul Myo
+* **GitHub:** [Quadraxx] *([Buraya kendi GitHub profil linkinizi ekleyebilirsiniz](https://github.com/Quadraxx))*
 
 **İletişim kurmaktan veya bu projeler hakkında daha fazla detay vermekten memnuniyet duyarım.**
